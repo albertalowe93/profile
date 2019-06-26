@@ -31,13 +31,13 @@ h2 {
   margin: 0 auto;
 }
 
-a:hover {
-  color: #275167;
-}
-
 a{
   color: #0073B1;
   font-weight: bold;
+}
+
+a:hover {
+  color: #275167;
 }
 
 .card{
@@ -48,6 +48,10 @@ a{
     text-align: center;
     width: 600px;
     margin: 10px auto;
+}
+
+.text_left {
+  text-align: left;
 }
 
 .list-inline li {
@@ -78,3 +82,4 @@ a{
     width: 300px;
   }
 }
+
